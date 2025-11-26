@@ -1,0 +1,17 @@
+{
+  "name": "siena-film-showcase",
+  "version": "1.0.0",
+  "description": "Siena Film Showcase - Dynamic Motion Carousel",
+  "main": "index.html",
+  "scripts": {
+    "dev": "http-server -p 3000 -c-1",
+    "build": "echo 'Static site - no build needed'",
+    "start": "http-server -p 3000"
+  },
+  "keywords": ["film", "carousel", "showcase"],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
