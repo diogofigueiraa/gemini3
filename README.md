@@ -1,10 +1,9 @@
-# Siena Film Showcase
+# Gemini3
 
-A dynamic motion carousel for showcasing films with smooth drag interactions and responsive design.
+A dynamic motion carousel with smooth drag interactions and responsive design.
 
 ## Features
 
-- 🎬 Dynamic film carousel with smooth scrolling
 - 🎨 Dark theme with modern UI
 - 📱 Fully responsive design
 - 🖱️ Drag and touch-enabled interactions
@@ -72,16 +71,9 @@ Currently, this project doesn't require environment variables. If you add featur
 
 ## Customization
 
-### Edit Film Data
+### Edit Carousel Data
 
-Open `public/index.html` and locate the `filmData` array in the script section:
-
-```javascript
-const filmData = [
-    { title: "MY PROJECT X", year: 2024, category: "DOCUMENTARY", runtime: "90 MIN", image: "..." },
-    // Add more films here
-];
-```
+Open `public/index.html` and locate the `filmData` array in the script section to customize the carousel items.
 
 ### Styling
 

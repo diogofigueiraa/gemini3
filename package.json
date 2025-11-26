@@ -1,14 +1,14 @@
 {
-  "name": "siena-film-showcase",
+  "name": "gemini3",
   "version": "1.0.0",
-  "description": "Siena Film Showcase - Dynamic Motion Carousel",
+  "description": "A static website",
   "main": "index.html",
   "scripts": {
     "dev": "http-server -p 3000 -c-1",
     "build": "echo 'Static site - no build needed'",
     "start": "http-server -p 3000"
   },
-  "keywords": ["film", "carousel", "showcase"],
+  "keywords": [],
   "author": "",
   "license": "MIT",
   "devDependencies": {
